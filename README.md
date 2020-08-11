@@ -8,6 +8,10 @@ Implementation for study cases only of a Instagram web scrapping that counts men
 - Node Js
 - Express Js
 
+# Screen
+
+![result screen](./images/ResultScreen.png)
+
 # How to use
 
 - Navigate root folder (./src) and run
