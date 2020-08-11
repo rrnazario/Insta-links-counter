@@ -10,9 +10,11 @@ Implementation for study cases only of a Instagram web scrapping that counts men
 
 # How to use
 
+- Navigate root folder (./src) and run
+    - ```npm install```
 - Navigate to server folder and run:
     - ```node extractor.js```
-- Navigate root folder and run 
+- Navigate back to the root folder (./src) and run 
     - ```npm run```
 
 - Open in your browser the URL [http://localhost:3000](http://localhost:3000)
