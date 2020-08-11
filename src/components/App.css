@@ -1,0 +1,26 @@
+.App {  
+  display: flex;
+  flex: 1;
+  margin: 20px;
+  flex-direction: column;
+  padding: 5px 0px;
+  text-align: center;
+}
+
+.App input{
+  font-size: 1.4rem;
+  width: 600px;
+  margin: 0 auto 2.4rem;
+  text-align: center;
+}
+
+.App button{
+  width: 250px;
+  height: 60px;
+  margin: 0 auto;
+}
+
+li {
+  list-style-type: none;
+}
+
