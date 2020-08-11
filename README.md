@@ -24,4 +24,8 @@ Implementation for study cases only of a Instagram web scrapping that counts men
 
 - [React JS](https://pt-br.reactjs.org/)
 - [Node Js](https://nodejs.org/en/)
+<<<<<<< HEAD
 - [Express JS](https://expressjs.com/pt-br/)
+=======
+- [Express JS](https://expressjs.com/pt-br/)
+>>>>>>> 019c05897106bf6c33d91e3aea88564c97eea9bd
